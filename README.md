@@ -35,10 +35,7 @@ This is a Telegram bot for managing inventory items and projects. The bot allows
 ### Steps
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-repository.git
-    cd your-repository
-    ```
+
 
 2. Install the dependencies:
     ```bash
